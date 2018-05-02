@@ -1,0 +1,44 @@
+Storm  name,Dates active,Storm  category  at peak intensity,Max 1-min  wind  mph (km/h),Min.  press.  (  mbar  ),Areas affected,Damage  (millions  USD  ),Deaths,Year
+Dalila,July 21 – 28,Category 1 hurricane,75 (120),982.0,"Southwestern Mexico  , Baja California Peninsula",1,1,2001
+Juliette,September 21 – October 3,Category 4 hurricane,145 (230),923.0,"Baja California Peninsula, Northwestern Mexico, Southwern Mexico",400,13,2001
+Kenna,October 22 – 26,Category 5 hurricane,165 (270),913.0,"Western Mexico  ,  Southern United States",101,4,2002
+Carlos,June 26 – 27,Tropical storm,65 (100),996.0,Southwestern Mexico,8,9,2003
+Ignacio,August 22 – 27,Category 2 hurricane,105 (165),970.0,"Baja California Peninsula  ,  Sonora  ,  California",21,2,2003
+Marty,September 18 – 24,Category 2 hurricane,100 (155),970.0,"Baja California Peninsula, Sonora,  Sinaloa  ,  Arizona",100,12,2003
+Adrian,May 17 – 21,Category 1 hurricane,80 (130),982.0,"Guatemala  ,  El Salvador  ,  Nicaragua  ,  Honduras",12,7,2005
+Ioke,"August 20 – 27,  [nb 2]",Category 5 hurricane,160 (260),915.0,"Johnston Atoll  ,  Wake Island  Minamitorishima  , Southern  Alaska",88,None,2006
+Lane,September 13 – 17,Category 3 hurricane,125 (205),952.0,"Southwestern Mexico  ,  Western Mexico  ,  Northwestern Mexico  ,  Southwestern United States",203,4,2006
+Paul,October 21 – 26,Category 2 hurricane,105 (165),970.0,"Oaxaca  ,  Guerrero  ,  Baja California Sur  ,  Sinaloa",3.2,4,2006
+Barbara,May 29 – June 2,Tropical storm,50 (85),1000.0,Southwestern Mexico,55,4,2007
+Henriette,August 30 – September 6,Category 1 hurricane,85 (140),972.0,"Southwestern Mexico, Western Mexico, Baja California Peninsula,  Northwestern Mexico  (  Sonora  )",25,11,2007
+Alma,May 29 – 30,Tropical storm,65 mph (100 km/h),994,Nicaragua,33,9,2008
+Five-E,July 5 – 7,Tropical depression,35 mph (55 km/h),1005,Western Mexico,2.2,2,2008
+Julio,August 23 – 26,Tropical storm,50 mph (85 km/h),998,"Baja California Peninsula,  Arizona",1,1,2008
+Lowell,September 6 – 11,Tropical storm,50 mph (85 km/h),998,"Baja California Peninsula, Northwestern Mexico,  Central United States",15.5,6,2008
+Norbert,October 4 – 12,Category 4 hurricane,130 mph (215 km/h),945,"Baja California Peninsula, Northwestern Mexico,  New Mexico  ,  Texas",98.5,25,2008
+Andres,June 21 – 24,Category 1 hurricane,80 (130),984.0,"Southwestern Mexico  , Western Mexico,  Honduras",0.231,3 (2),2009
+Jimena,August 28 – September 4,Category 4 hurricane,155 (250),931.0,"Western Mexico, Northwest Mexico (  Baja California Sur  ),  Southwestern United States",173.9,4 (2),2009
+Rick,October 15 – 21,Category 5 hurricane,180 (285),906.0,"Western Mexico (  Sinaloa  ), Northwest Mexico,  Southern United States",14.6,3 (1),2009
+Agatha,May 29 – 30,Tropical storm,45 (75),1001.0,"Southwestern Mexico  (  Chiapas  ),  Central America  (  Guatemala  )",1112.6,204,2010
+Frank,August 21 – 28,Category 1 hurricane,90 (150),978.0,"Southwestern Mexico, Western Mexico",8.3,6,2010
+Eleven-E,September 3 – 4,Tropical depression,35 (55),1004.0,"Southwestern Mexico, Central America",500,0 (57),2010
+Carlotta,June 14 – June 16,Category 2 hurricane,110 (175),973.0,Southwestern Mexico,12.4,7,2012
+Paul,October 13 – October 17,Category 3 hurricane,120 (195),959.0,"Baja California Peninsula, Northwestern Mexico",15.5,None,2012
+Barbara,May 28 – May 30,Category 1 hurricane,80 (130),983.0,"Central America  ,  Southwestern Mexico  ,  Eastern Mexico",1,5,2013
+Flossie,July 25 – July 30,Tropical storm,70 (110),994.0,Hawaii,0.024,None,2013
+Ivo,August 22 – August 25,Tropical storm,45 (75),997.0,"Baja California Peninsula,  Western United States",0.3,1,2013
+Manuel,September 13 – September 19,Category 1 hurricane,75 (120),983.0,"Southwestern Mexico, Western Mexico , Northwestern Mexico,  Texas",4200,123,2013
+Boris,June 2 – June 4,Tropical storm,45 (75),998.0,"Southwestern Mexico,  Guatemala",46.8,6,2014
+Iselle,July 31 – August 9,Category 4 hurricane,140 (220),947.0,Hawaii,79.2,1,2014
+Marie,August 22 – August 28,Category 5 hurricane,160 (260),918.0,"Southwestern Mexico,  Southern California",20,6  [177],2014
+Norbert,September 2 – September 7,Category 3 hurricane,125 (205),950.0,"Western Mexico,  Baja California Peninsula  ,  Southwestern United States",27.7,5,2014
+Odile,September 10 – September 18,Category 4 hurricane,140 (220),918.0,"Western Mexico, Baja California Peninsula,  Northwestern Mexico  , Southwestern United States,  Texas",1220,15,2014
+Polo,September 16 – September 22,Category 1 hurricane,75 (120),979.0,"Western Mexico, Baja California Peninsula",7.5,1,2014
+Blanca,May 31 – June 9,Category 4 hurricane,145 (230),936.0,"Western Mexico  ,  Baja California Peninsula  , Southwestern United States",0.133,4,2015
+Carlos,June 10 – 17,Category 1 hurricane,90 (150),978.0,"Southwestern Mexico  , Western Mexico",1.1,None,2015
+Dolores,July 11 – 19,Category 4 hurricane,130 (215),946.0,"Southwestern Mexico, Western Mexico, Baja California Peninsula, Southwestern United States",50,None,2015
+Linda,September 6 – 10,Category 3 hurricane,125 (205),950.0,"Sinaloa  ,  Oaxaca  ,  Zacatecas  , Southwestern United States",3.73,22,2015
+Sixteen-E,September 20 – 21,Tropical depression,35 (55),1001.0,"Baja California Peninsula,  Northwestern Mexico  , Southwestern United States",17.7,1,2015
+Marty,September 26 – 30,Category 1 hurricane,80 (130),987.0,"Southwestern Mexico, Western Mexico",30,None,2015
+Patricia,October 20 – 24,Category 5 hurricane,215 (345),872.0,"Central America  , Mexico,  Texas",460,8 (5),2015
+Newton,September 4 – 7,Category 1 hurricane,90 (150),977.0,"Baja California Peninsula, Northwestern Mexico,  Southwestern United States",96,9,2016
